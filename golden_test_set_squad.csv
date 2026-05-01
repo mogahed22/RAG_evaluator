@@ -1,0 +1,51 @@
+question,expected_source,expected_answer,source_type
+To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?,squad_passage_000,Saint Bernadette Soubirous,squad
+When did the Scholastic Magazine of Notre dame begin publishing?,squad_passage_001,September 1876,squad
+Where is the headquarters of the Congregation of the Holy Cross?,squad_passage_002,Rome,squad
+How many BS level degrees are offered in the College of Engineering at Notre Dame?,squad_passage_003,eight,squad
+What entity provides help with the management of time for new students at Notre Dame?,squad_passage_004,Learning Resource Center,squad
+The granting of Doctorate degrees first occurred in what year at Notre Dame?,squad_passage_005,1924,squad
+What institute at Notre Dame studies  the reasons for violent conflict?,squad_passage_006,Joan B. Kroc Institute for International Peace Studies,squad
+How many stories tall is the main library at Notre Dame?,squad_passage_007,14,squad
+How many incoming students did Notre Dame admit in fall 2015?,squad_passage_008,"3,577",squad
+Where did U.S. News & World Report rank Notre Dame in its 2015-2016 university rankings?,squad_passage_009,18th overall,squad
+What person was the Director of the Science Museum at Notre Dame in the late 19th century?,squad_passage_010,"Father Joseph Carrier, C.S.C.",squad
+In what year did Albert Zahm begin comparing aeronatical models at Notre Dame?,squad_passage_011,1882,squad
+Work on a germ-free-life ended up in the creation of which Notre Dame institute?,squad_passage_012,The Lobund Institute,squad
+Gurian created what in 1939 at Notre Dame?,squad_passage_013,The Review of Politics,squad
+Who was the president of Notre Dame in 2012?,squad_passage_014,John Jenkins,squad
+How many undergrads were attending Notre Dame in 2014?,squad_passage_015,"8,448",squad
+What percentage of undergrads live on the Notre Dame campus?,squad_passage_016,80%,squad
+What is Congregation of Holy Cross in Latin?,squad_passage_017,Congregatio a Sancta Cruce,squad
+What was the music hall at Notre Dame called?,squad_passage_018,Washington Hall,squad
+What type of education was pushed at Notre Dame before its embracing of national standards?,squad_passage_019,scholastic and classical,squad
+"The Notre Dame football team got a new head coach in 1918, who was it?",squad_passage_020,Knute Rockne,squad
+"Catholic people identified with Notre Dame, what religious group did people feel Yale represented?",squad_passage_021,the Protestant establishment,squad
+Which person became vice-president of Notre Dame in 1933?,squad_passage_022,Father John Francis O'Hara,squad
+Around the time that Rev. Cavanaugh became president of Notre Dame by how much did the undergrad student body of Notre Dame increase?,squad_passage_023,more than half,squad
+What was the lifespan of Theodore Hesburgh?,squad_passage_024,1917–2015,squad
+What type of educational institute is Hesburgh given credit for creating at Notre Dame?,squad_passage_025,coeducational,squad
+During what years was Edward Malloy president of Notre Dame?,squad_passage_026,1987–2005,squad
+When did John Jenkins become the president of Notre Dame?,squad_passage_027,2005,squad
+Which congregation is in charge of the Old College at Notre Dame?,squad_passage_028,Congregation of Holy Cross,squad
+Which person oversaw the creation of a science hall at Notre Dame in 1883?,squad_passage_029,Fr. Zahm,squad
+How many halls are at Notre Dame that house students?,squad_passage_030,29,squad
+In what year did Notre Dame create the Office of Sustainability?,squad_passage_031,2008,squad
+In what year did Notre Dame first have a facility in England?,squad_passage_032,1968,squad
+What was Notre Dame's first college?,squad_passage_033,The College of Arts and Letters,squad
+Which president at Notre Dame created the College of Science?,squad_passage_034,Father Patrick Dillon,squad
+In 1899 Notre Dame formed which college?,squad_passage_035,School of Architecture,squad
+In what year did the opening of a theology library at Notre Dame occur?,squad_passage_036,2015,squad
+What caused many intellectual Catholics to leave europe in the 1930s?,squad_passage_037,The rise of Hitler and other dictators,squad
+"The school known as Notre Dame is known by a more lengthy name, what is it?",squad_passage_038,University of Notre Dame du,squad
+What caused Notre Dame to become notable in the early 20th century?,squad_passage_039,its Fighting Irish football team,squad
+What does LTE stand for in 4G mobile networks and what is its main purpose?,mobile_passage_001,Long Term Evolution which is a standard for high-speed wireless communication designed to improve data rates and network efficiency compared to previous generations,custom
+Which generation introduced ultra-low latency communication and why is it important?,mobile_passage_002,5G which enables ultra-low latency communication making it suitable for real-time applications such as autonomous driving and remote surgery,custom
+What is the typical peak data rate of 5G networks and how does it compare to 4G?,mobile_passage_003,5G networks can achieve peak data rates up to 10 Gbps which is significantly higher than 4G that typically offers up to 1 Gbps,custom
+Which technology is commonly used for multiple access in 4G LTE and how does it work?,mobile_passage_004,OFDMA which divides the available spectrum into multiple subcarriers allowing multiple users to transmit data simultaneously with high efficiency,custom
+What frequency range is referred to as millimeter wave in 5G and what are its characteristics?,mobile_passage_005,Millimeter wave refers to frequencies above 24 GHz which provide very high data rates but have limited coverage and poor penetration through obstacles,custom
+Which network architecture allows 5G to operate independently of 4G and what does it mean?,mobile_passage_006,Standalone architecture which means 5G uses its own core network without relying on existing 4G infrastructure,custom
+What is the core network of 4G called and what are its main functions?,mobile_passage_007,Evolved Packet Core which handles data routing mobility management and connectivity between users and external networks,custom
+Which feature in 5G enables multiple virtual networks on a single physical infrastructure and why is it useful?,mobile_passage_008,Network slicing which allows operators to create multiple virtual networks tailored for different use cases such as IoT or high-speed broadband,custom
+What modulation scheme is widely used in both 4G and 5G and why is it important?,mobile_passage_009,Quadrature Amplitude Modulation which improves data throughput by encoding more bits per symbol in the transmitted signal,custom
+Which organization is responsible for standardizing 4G and 5G technologies and what is its role?,mobile_passage_010,3GPP which develops global standards and specifications to ensure interoperability and advancement of mobile communication technologies,custom
